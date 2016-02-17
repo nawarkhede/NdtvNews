@@ -3,7 +3,8 @@ displays latest news to terminal - NdtvNews-TopStories
 
 
 Save ndtvnews.py to local disk.
-Add following code to `.zshrc` or `.bashrc`
+
+Add following line to `.zshrc` or `.bashrc`
 
 
 
