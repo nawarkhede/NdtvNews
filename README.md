@@ -1,5 +1,5 @@
 # NdtvNews
-displays latest news - NdtvNews-TopStories
+displays latest news to terminal - NdtvNews-TopStories
 
 
 Save ndtvnews.py to local disk.
