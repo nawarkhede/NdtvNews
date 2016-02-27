@@ -1,4 +1,4 @@
-# NdtvNews
+# news-in-terminal
 displays latest news to terminal - NdtvNews-TopStories
 
 
