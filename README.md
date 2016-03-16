@@ -2,7 +2,7 @@
 displays latest news to terminal
 
 
-Save ndtvnews.py to local disk.
+Save news.py to local disk.
 
 Add following line to `.zshrc` or `.bashrc`
 
