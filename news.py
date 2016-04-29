@@ -1,6 +1,6 @@
-
 import requests
 from bs4 import BeautifulSoup
+
 print 'Headlines ...'
 news = []
 url = 'http://zeenews.india.com/rss/india-national-news.xml'
