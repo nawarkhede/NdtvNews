@@ -1,8 +1,10 @@
 import requests
 import json
 from bs4 import BeautifulSoup
+from colorama import Fore, Back, Style
 
-print 'Weather ...'
+
+print(Fore.GREEN + 'Weather ... ')
 url = 'http://api.openweathermap.org/data/2.5/weather?q=Mumbai,in&appid=51802c40fcf278769218f282d61d324e&units=metric'
 data = requests.get(url)
 data = json.loads(data.content)
@@ -11,6 +13,8 @@ print '%s -> Min %s - Max %s | humidity %s ' % (data['name'],
                                                 data['main']['temp_max'],
                                                 data['main']['humidity'])
 
+
+print(Style.RESET_ALL)
 
 print 'Headlines ...'
 news = []
