@@ -1,4 +1,4 @@
-# news-in-terminal
+# info-in-terminal
 displays latest weather and news to terminal
 
 
